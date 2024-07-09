@@ -6,4 +6,7 @@ SO I can host this code on a remote server
 ```
 
 ## Example
-![screenshot](/Users/jruiz/Desktop/Screenshot 2024-07-09 at 4.59.05 PM.png)
+In the app folder you can find a tar file to unpack and add the app to your local machine
+
+## Photo
+![alt text](app/images/hostmanagement-example.png)
