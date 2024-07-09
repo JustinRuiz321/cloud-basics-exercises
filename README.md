@@ -1,3 +1,9 @@
-#### This project is for the Devops bootcamp exercise for
+## Host Management using DigitalOcean
+```
+AS A DevOps Engineer
+I WANT to be able to package code
+SO I can host this code on a remote server
+```
 
-#### "Cloud Basics"# cloud-basics-exercises
+## Example
+![screenshot](/Users/jruiz/Desktop/Screenshot 2024-07-09 at 4.59.05 PM.png)
