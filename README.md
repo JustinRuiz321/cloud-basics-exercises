@@ -9,4 +9,3 @@ SO I can host this code on a remote server
 In the app folder you can find a tar file to unpack and add the app to your local machine
 
 ## Photo
-![alt text](app/images/hostmanagement-example.png)
