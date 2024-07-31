@@ -8,5 +8,5 @@ SO I can host this code on a remote server
 ## Example
 In the app folder you can find a tar file to unpack and add the app to your local machine
 
-## Photo
+## Module 5 Example Photo
 ![alt text](app/images/hostmanagement-example.png)
