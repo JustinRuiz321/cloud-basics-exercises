@@ -13,3 +13,6 @@ In the app folder you can find a tar file to unpack and add the app to your loca
 
 ## Module 6 Example Photo
 ![alt text](<app/images/Screenshot 2024-08-02 at 1.17.18 AM.png>)
+
+## Module 6 Automation Bash Script
+![alt text](<app/images/Screenshot 2024-08-02 at 1.35.12 AM.png>)
