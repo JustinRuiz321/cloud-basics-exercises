@@ -10,3 +10,6 @@ In the app folder you can find a tar file to unpack and add the app to your loca
 
 ## Module 5 Example Photo
 ![alt text](app/images/hostmanagement-example.png)
+
+## Module 6 Example Photo
+![alt text](<app/images/Screenshot 2024-08-02 at 1.17.18 AM.png>)
